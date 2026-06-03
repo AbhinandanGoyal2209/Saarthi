@@ -8,7 +8,7 @@
     "server": "nodemon server.js",
     "export-data": "node exportData.js"
   },
-  "author": "",
+  "author": "Abhinandan Goyal",
   "license": "ISC",
   "description": "",
   "dependencies": {
